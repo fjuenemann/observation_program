@@ -1,0 +1,14 @@
+#
+# Default setting of the MPG - Proptyp observing software
+#
+
+antenna position:
+    latitude:   -30.71796944    #degree
+    longitude:  21.41306111 #degree
+    heigth: 1053.0  #meter
+
+connection:
+    telescope_host: 'localhost'
+    telescope_port: '8080'
+    backend_host: '10.98.64.23'
+    backend_port: '7149'
